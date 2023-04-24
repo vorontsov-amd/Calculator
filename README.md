@@ -23,4 +23,4 @@ The calculator supports the following operations:
 
 It also supports parentheses to group expressions and enforce operator precedence.
 
-![](https://sun9-77.userapi.com/impg/2RBFi1FgPYIylasLlgTGBVV3Ha7CTqQXnIwwDQ/e_14jxO99J0.jpg?size=640x1096&quality=96&sign=d3937b20be5ed2ccc7a4f51bbae0ec2a&type=album)
+<img src="https://sun9-77.userapi.com/impg/2RBFi1FgPYIylasLlgTGBVV3Ha7CTqQXnIwwDQ/e_14jxO99J0.jpg?size=640x1096&quality=96&sign=d3937b20be5ed2ccc7a4f51bbae0ec2a&type=album" alt="calculator" width="200"/>
